@@ -1,0 +1,1027 @@
+@media screen and (max-width: 1400px) {
+  .section2 .part2 {
+    height: 800px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+  }
+  .section2 .part2 .poorpeopleimg img {
+    height: 300px;
+    width: 400px;
+  }
+  .section3 .part3 {
+    height: 800px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+  }
+  .section3 .part3 .poorpeopleimg img {
+    height: 300px;
+    width: 400px;
+  }
+  .section5 .part4 {
+    height: 800px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 300px;
+    width: 400px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .kayu-teymur {
+    display: none;
+  }
+  .callus h6 {
+    display: none;
+  }
+}
+@media screen and (max-width: 700px) {
+  .section2 .part2 {
+    height: 800px !important;
+  }
+  .section2 .part2 .poorpeopleimg img {
+    padding: 20px;
+    height: 400px;
+    width: 500px !important;
+  }
+  .section2 .part2 .part2text {
+    display: flex;
+    flex-direction: column;
+  }
+  .section2 .part2 span {
+    font-size: 20px;
+  }
+  .section2 .part2 h1 {
+    font-size: 20px;
+  }
+  .section2 .part2 p {
+    height: 80px;
+  }
+  .section3 .part3 {
+    height: 800px !important;
+  }
+  .section3 .part3 .poorpeopleimg img {
+    padding: 20px;
+    height: 400px;
+    width: 500px !important;
+  }
+  .section3 .part3 .part3text {
+    display: flex;
+    flex-direction: column;
+  }
+  .section3 .part3 span {
+    font-size: 20px;
+  }
+  .section3 .part3 h1 {
+    font-size: 20px;
+  }
+  .section3 .part3 p {
+    height: 80px;
+  }
+  .section5 .part4 {
+    height: 800px !important;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 300px;
+    width: 300px !important;
+  }
+  .section5 .part4 .part4text {
+    display: flex;
+    flex-direction: column;
+  }
+  .section5 .part4 span {
+    font-size: 20px;
+  }
+  .section5 .part4 h1 {
+    font-size: 20px;
+  }
+  .section5 .part4 p {
+    height: 80px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .section5 .part4 {
+    height: 800px !important;
+    margin-bottom: 70%;
+    margin-top: 400px;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 300px;
+    width: 300px !important;
+  }
+  .section5 .part4 .part4text {
+    display: flex;
+    flex-direction: column;
+  }
+  .section5 .part4 span {
+    font-size: 20px;
+  }
+  .section5 .part4 h1 {
+    font-size: 20px;
+  }
+  .section5 .part4 p {
+    height: 80px;
+  }
+}
+@media screen and (max-width: 533px) {
+  .section3 .part3 p {
+    width: 200px !important;
+  }
+}
+@media screen and (max-width: 500px) {
+  .section2 .part2 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section2 .part2 .poorpeopleimg img {
+    height: 300px;
+    width: 400px !important;
+  }
+  .section2 .part2 .part2text {
+    width: 60%;
+  }
+  .section2 .part2 .part2text span {
+    font-size: 15px;
+  }
+  .section2 .part2 .part2text h1 {
+    font-size: 20px;
+    width: 250px !important;
+  }
+  .section2 .part2 .part2text p {
+    height: 80px;
+  }
+  .section2 .part2 .part2text .buttonn {
+    display: flex;
+    padding-top: 90px !important;
+  }
+  .section3 .part3 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section3 .part3 .poorpeopleimg img {
+    height: 300px;
+    width: 450px !important;
+  }
+  .section3 .part3 .part3text {
+    width: 40%;
+  }
+  .section3 .part3 .part3text span {
+    font-size: 15px;
+  }
+  .section3 .part3 .part3text h1 {
+    font-size: 20px;
+    width: 200px !important;
+  }
+  .section3 .part3 .part3text p {
+    width: 200px !important;
+  }
+  .section3 .part3 .part3text .buttonnn {
+    display: flex;
+    padding-top: 90px !important;
+  }
+  .section5 .part4 {
+    padding-top: 600px !important;
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 200px;
+    width: 200px !important;
+  }
+  .section5 .part4 .part4text {
+    width: 40%;
+  }
+  .section5 .part4 .part4text span {
+    font-size: 15px;
+  }
+  .section5 .part4 .part4text h1 {
+    font-size: 20px;
+    width: 200px !important;
+  }
+  .section5 .part4 .part4text p {
+    width: 200px !important;
+  }
+  .section5 .part4 .part4text .buttonnnn {
+    display: flex;
+    padding-top: 90px !important;
+  }
+}
+@media screen and (max-width: 430px) {
+  .section2 .part2 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section2 .part2 .poorpeopleimg img {
+    height: 300px;
+    width: 400px !important;
+  }
+  .section2 .part2 .part2text {
+    width: 60%;
+  }
+  .section2 .part2 .part2text span {
+    font-size: 15px;
+  }
+  .section2 .part2 .part2text h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  .section2 .part2 .part2text p {
+    height: 110px;
+  }
+  .section2 .part2 .part2text .buttonn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section2 .part2 .part2text .buttonn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section2 .part2 .part2text .buttonn .buton2 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section3 .part3 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section3 .part3 .poorpeopleimg img {
+    height: 300px;
+    width: 400px !important;
+  }
+  .section3 .part3 .part3text {
+    width: 60%;
+  }
+  .section3 .part3 .part3text span {
+    font-size: 15px;
+  }
+  .section3 .part3 .part3text h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  .section3 .part3 .part3text p {
+    height: 110px;
+  }
+  .section3 .part3 .part3text .buttonnn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section3 .part3 .part3text .buttonnn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section5 .part4 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 200px;
+    width: 300px !important;
+  }
+  .section5 .part4 .part4text {
+    padding-right: 150px;
+    width: 60%;
+  }
+  .section5 .part4 .part4text span {
+    font-size: 15px;
+  }
+  .section5 .part4 .part4text h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  .section5 .part4 .part4text p {
+    height: 110px;
+  }
+  .section5 .part4 .part4text .buttonnnn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section5 .part4 .part4text .buttonnnn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .section2 .part2 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section2 .part2 .poorpeopleimg img {
+    height: 300px;
+    width: 300px !important;
+  }
+  .section2 .part2 .part2text {
+    width: 60%;
+  }
+  .section2 .part2 .part2text span {
+    font-size: 15px;
+  }
+  .section2 .part2 .part2text h1 {
+    font-size: 20px;
+    width: 200px !important;
+  }
+  .section2 .part2 .part2text p {
+    height: 110px;
+  }
+  .section2 .part2 .part2text .buttonn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section2 .part2 .part2text .buttonn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section2 .part2 .part2text .buttonn .buton2 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section3 .part3 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    padding-top: 20px;
+  }
+  .section3 .part3 .poorpeopleimg img {
+    height: 300px;
+    width: 250px !important;
+  }
+  .section3 .part3 .part3text {
+    width: 60%;
+    padding-right: 160px;
+  }
+  .section3 .part3 .part3text span {
+    font-size: 15px;
+  }
+  .section3 .part3 .part3text h1 {
+    font-size: 20px;
+    width: 200px;
+  }
+  .section3 .part3 .part3text p {
+    height: 110px;
+  }
+  .section3 .part3 .part3text .buttonnn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section3 .part3 .part3text .buttonnn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+  .section5 .part4 {
+    display: flex;
+    flex-direction: column;
+    height: 900px !important;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .section5 .part4 .poorpeopleimg img {
+    height: 200px;
+    width: 200px !important;
+  }
+  .section5 .part4 .part4text {
+    width: 60%;
+  }
+  .section5 .part4 .part4text span {
+    font-size: 15px;
+  }
+  .section5 .part4 .part4text h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  .section5 .part4 .part4text p {
+    height: 110px;
+  }
+  .section5 .part4 .part4text .buttonnnn {
+    display: flex;
+    flex-direction: column;
+  }
+  .section5 .part4 .part4text .buttonnnn .buton1 {
+    width: 150px !important;
+    height: 30px !important;
+    font-size: 10px !important;
+  }
+}
+@media screen and (max-width: 300px) {
+  .section2 .part2 {
+    width: 200px;
+    gap: 0 !important;
+  }
+  .section2 .part2 .part2text {
+    padding-left: 30px !important;
+  }
+  .section2 .part2 .part2text h1 {
+    width: 160px;
+  }
+  .section2 .part2 .part2text p {
+    width: 180px;
+  }
+  .section3 .part3 {
+    width: 200px;
+    gap: 0 !important;
+  }
+  .section3 .part3 .part3text {
+    padding-left: 30px !important;
+  }
+  .section3 .part3 .part3text h1 {
+    width: 160px;
+  }
+  .section3 .part3 .part3text p {
+    width: 180px;
+  }
+  .section5 .part4 {
+    width: 200px;
+    gap: 0 !important;
+  }
+  .section5 .part4 .part4text {
+    padding-left: 30px !important;
+  }
+  .section5 .part4 .part4text h1 {
+    width: 160px;
+  }
+  .section5 .part4 .part4text p {
+    width: 180px;
+  }
+  .section1 .image-main {
+    height: 400px !important;
+    width: 300px !important;
+  }
+  .section1 .imagetext {
+    padding-top: 30px;
+  }
+  .section1 .imagetext h1 {
+    position: relative;
+    top: -90px !important;
+    font-size: 30px !important;
+  }
+  .section1 .imagetext p {
+    position: relative;
+    font-size: 18px !important;
+    top: -90px !important;
+  }
+  .section1 .imagetext .button {
+    position: relative;
+    top: -70px;
+    width: 150px;
+    height: 60px;
+    font-size: 15px;
+  }
+  .section1 .image-main {
+    height: 400px;
+  }
+  .section1 .imagetext {
+    position: absolute;
+    top: 15%;
+    height: auto;
+  }
+  .section1 .imagetext h1 {
+    font-size: 30px;
+  }
+  .section1 .imagetext p {
+    font-size: 20px;
+  }
+  .section1 .imagetext .button {
+    width: 150px;
+    height: 90px;
+    font-size: 15px;
+  }
+  .section1 .kayu-teymur {
+    display: none;
+  }
+}
+header {
+  top: 0;
+  z-index: 100;
+  position: sticky;
+}
+header .callus {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  gap: 15px;
+}
+header .callus button {
+  background-color: rgb(241, 91, 67);
+  height: 55px;
+  border: 1px solid black;
+}
+header .callus button:hover {
+  background-color: transparent;
+}
+
+.image-main {
+  background-image: url(./dayi.jpg);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+}
+
+main .section1 .imagetext {
+  position: absolute;
+  padding-top: 10%;
+  left: 10%;
+  color: white;
+}
+main .section1 .imagetext h1 {
+  font-size: 60px;
+}
+main .section1 .imagetext p {
+  font-size: 25px;
+}
+main .section1 .imagetext button {
+  border: 1px solid black;
+  background-color: rgb(101, 201, 187);
+  height: 70px;
+  width: 230px;
+  color: white;
+}
+main .section1 .imagetext .button:hover {
+  border: 1px solid white;
+  background-color: transparent;
+}
+main .section2 {
+  background-color: rgb(252, 242, 235);
+  padding-top: 50px;
+}
+main .section2 .part2 {
+  display: flex;
+  gap: 80px;
+}
+main .section2 .part2 span {
+  color: rgb(101, 201, 187);
+}
+main .section2 .part2 h1 {
+  color: rgb(38, 59, 92);
+}
+main .section2 .part2 p {
+  color: rgb(119, 119, 119);
+}
+main .section2 .part2 .part2text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+main .section2 .part2 .part2text .buttonn {
+  display: flex;
+  gap: 20px;
+}
+main .section2 .part2 .part2text .buttonn .buton1 {
+  border: 1px solid rgb(241, 91, 67);
+  height: 70px;
+  width: 170px;
+  font-size: 20px;
+  background-color: rgb(241, 91, 67);
+  color: white;
+}
+main .section2 .part2 .part2text .buttonn .buton2 {
+  border: 1px solid rgb(241, 91, 67);
+  font-size: 20px;
+  height: 70px;
+  width: 170px;
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .section2 .part2 .part2text .buttonn .buton1:hover {
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .section2 .part2 .part2text .buttonn .buton2:hover {
+  background-color: rgb(241, 91, 67);
+  color: white;
+}
+main .section3 {
+  padding: 96px;
+}
+main .section3 .part3 {
+  display: flex;
+  gap: 80px;
+}
+main .section3 .part3 span {
+  color: rgb(101, 201, 187);
+}
+main .section3 .part3 h1 {
+  color: rgb(38, 59, 92);
+}
+main .section3 .part3 p {
+  color: rgb(119, 119, 119);
+}
+main .section3 .part3 .part3text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+main .section3 .part3 .part3text .buttonnn {
+  display: flex;
+  gap: 20px;
+}
+main .section3 .part3 .part3text .buttonnn .buton1 {
+  border: 1px solid rgb(241, 91, 67);
+  height: 70px;
+  width: 170px;
+  font-size: 20px;
+  background-color: rgb(241, 91, 67);
+  color: white;
+}
+main .section3 .part3 .part3text .buttonnn .buton2 {
+  border: 1px solid rgb(241, 91, 67);
+  font-size: 20px;
+  height: 70px;
+  width: 170px;
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .section3 .part3 .part3text .buttonnn .buton1:hover {
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .section3 .part3 .part3text .buttonnn .buton2:hover {
+  background-color: rgb(241, 91, 67);
+  color: white;
+}
+main .section5 {
+  padding: 96px;
+}
+main .section5 .part4 {
+  display: flex;
+  justify-content: space-evenly;
+}
+main .section5 .part4 span {
+  color: rgb(101, 201, 187);
+}
+main .section5 .part4 h1 {
+  color: rgb(38, 59, 92);
+}
+main .section5 .part4 p {
+  color: rgb(119, 119, 119);
+}
+main .section5 .part4 .part4text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+main .section5 .part4 .part4text .buttonnnn {
+  display: flex;
+}
+main .section5 .part4 .part4text .buttonnnn .buton1 {
+  border: 1px solid rgb(241, 91, 67);
+  height: 70px;
+  width: 170px;
+  font-size: 20px;
+  background-color: rgb(241, 91, 67);
+  color: white;
+}
+main .section5 .part4 .part4text .buttonnnn .buton1:hover {
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .cards {
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 600px;
+  margin-top: 4%;
+}
+main .cards .card {
+  width: 30%;
+}
+main .cards .card:hover h4 {
+  color: red;
+  transition: 500ms;
+}
+main .cards .card:hover .cardfooter .donatebutton {
+  background-color: transparent;
+  color: rgb(241, 91, 67);
+}
+main .cards .card .cardimg img {
+  height: 300px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+main .cards .card .cardinfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+main .cards .card .cardinfo .cardfooter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 15px;
+  color: aqua;
+}
+main .cards .card .cardinfo .cardfooter .donatebutton {
+  background-color: rgb(241, 91, 67);
+  border: 1px solid rgb(241, 91, 67);
+  color: white;
+  width: 80px;
+  height: 50px;
+  margin-bottom: 5%;
+}
+@media screen and (max-width: 900px) {
+  main .cards {
+    margin-bottom: 50%;
+  }
+  main .cards .card {
+    width: 45%;
+    margin-top: 5%;
+  }
+  main .cards .card .cardinfo h4 {
+    font-size: 18px;
+  }
+  main .cards .card .cardinfo p {
+    font-size: 12px;
+  }
+  main .cards .card .cardinfo .cardfooter .donatebutton {
+    height: 20px;
+    width: 80px;
+  }
+  main .cards .card .cardinfo .cardfooter .donatebutton h6 {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  main .cards .card {
+    width: 95%;
+  }
+  main .cards .card .cardinfo h4 {
+    font-size: 18px;
+  }
+  main .cards .card .cardinfo p {
+    font-size: 12px;
+  }
+  main .cards .card .cardinfo .cardfooter {
+    height: 20px;
+    width: 80px;
+  }
+  main .cards .card .cardinfo .cardfooter h6 {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 320px) {
+  main .cards {
+    width: 300px;
+  }
+}
+
+.section6 {
+  background-attachment: fixed;
+  flex-wrap: wrap;
+}
+.section6 .common {
+  color: white;
+}
+.section6 .common .upperpart {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section6 .common .imgs {
+  display: flex;
+  justify-content: space-between;
+}
+.section6 .common .imgs .img1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+  .section6 {
+    flex-wrap: wrap;
+  }
+  .section6 .imgs {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 600px) {
+  .section6 {
+    display: flex;
+    justify-content: center;
+  }
+  .section6 .imgs {
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .section6 .imgs .img1 {
+    display: flex;
+  }
+}
+footer .foot1 {
+  padding-top: 80px;
+  padding-bottom: 20px;
+  background-color: rgb(38, 59, 92);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+footer .foot1 p {
+  color: white;
+}
+footer .foot1 .icons {
+  display: flex;
+  font-size: 20px;
+  gap: 5px;
+}
+footer .foot1 .icons .icon1 {
+  border: 1px solid rgb(59, 89, 152);
+  background-color: rgb(59, 89, 152);
+  width: 54px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+footer .foot1 .icons .icon1:hover {
+  transform: rotateY(180deg);
+  transition: 1000ms;
+}
+footer .foot1 .icons .icon1 i {
+  color: white;
+}
+footer .foot1 .icons .icon2 {
+  border: 1px solid rgb(0, 119, 181);
+  background-color: rgb(0, 119, 181);
+  width: 54px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+footer .foot1 .icons .icon2:hover {
+  transform: rotateY(180deg);
+  transition: 1000ms;
+}
+footer .foot1 .icons .icon2 i {
+  color: white;
+}
+footer .foot1 .icons .icon3 {
+  border: 1px solid rgb(59, 89, 230);
+  background-color: rgb(59, 89, 230);
+  width: 54px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+footer .foot1 .icons .icon3:hover {
+  transform: rotateY(180deg);
+  transition: 1000ms;
+}
+footer .foot1 .icons .icon3 i {
+  color: white;
+}
+footer .foot1 .icons .icon4 {
+  border: 1px solid red;
+  background-color: red;
+  width: 54px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+footer .foot1 .icons .icon4:hover {
+  transform: rotateY(180deg);
+  transition: 1000ms;
+}
+footer .foot1 .icons .icon4 i {
+  color: white;
+}
+footer .foot1 .second .navigation {
+  color: white;
+}
+footer .foot1 .second .href ul {
+  padding: 0;
+  list-style: none;
+}
+footer .foot1 .second .href ul li {
+  padding: 10px;
+}
+footer .foot1 .second .href ul li a {
+  text-decoration: none;
+  color: white;
+}
+footer .foot1 .third .contact {
+  color: white;
+}
+footer .foot1 .third .number ul {
+  padding: 0;
+  list-style: none;
+}
+footer .foot1 .third .number ul li {
+  padding: 10px;
+}
+footer .foot1 .third .number ul li a {
+  text-decoration: none;
+  color: white;
+}
+footer .foot1 .four .support {
+  color: white;
+}
+footer .foot1 .four .lastname button {
+  border: 1px solid rgb(241, 91, 67);
+  background-color: rgb(241, 91, 67);
+  color: white;
+  width: 150px;
+  height: 50px;
+}
+footer .foot1 .four .lastname button:hover {
+  border: 1px solid white;
+  background-color: transparent;
+}
+
+.foot2 {
+  border: 1px solid rgb(56, 75, 106);
+  background-color: rgb(38, 59, 92);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 950px) {
+  footer img {
+    width: 150px;
+  }
+  footer p {
+    font-size: 14px;
+  }
+  footer ul {
+    font-size: 14px;
+  }
+  footer h5 {
+    font-size: 17px;
+  }
+  footer button {
+    width: 100px !important;
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 632px) {
+  footer img {
+    width: 200px;
+  }
+  footer p {
+    font-size: 17px;
+  }
+  footer ul {
+    font-size: 17px;
+  }
+  footer h5 {
+    font-size: 20px;
+  }
+  footer button {
+    width: 100px !important;
+    font-size: 12px;
+  }
+}
+.home-demo .item {
+  background: #ff3f4d;
+}
+
+.home-demo h2 {
+  color: #FFF;
+  text-align: center;
+  padding: 5rem 0;
+  margin: 0;
+  font-style: italic;
+  font-weight: 300;
+}/*# sourceMappingURL=style.css.map */
